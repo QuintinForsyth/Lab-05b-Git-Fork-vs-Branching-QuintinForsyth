@@ -1,1 +1,2 @@
 fork.txt
+this message is from the forked git
